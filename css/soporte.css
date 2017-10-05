@@ -1,0 +1,44 @@
+#headtotalhe{padding: 0px 0px 0px 0px!important;margin: 0 0 0 0!important;}
+#principalcont{margin: 0px 0px;background: #efefef url(http://i.imgur.com/yyg2Ckf.png) repeat-y 61%;background-size: 100%;min-height: 676px;}
+#accounts{top: 38px;right: 84px;border: 1px solid rgba(0, 0, 0, 0.25);}
+#countpagesop{display:none;background: #fff;border: 1px solid #ccc;border-color: rgba(0,0,0,.2);box-shadow: 0 2px 10px rgba(0,0,0,.2);display: block;position: fixed;right: 20px;top: 38px;width: 92px;color: #66757f;-webkit-animation: gb__a .2s;animation: gb__a .2s;-webkit-border-radius: 2px;border-radius: 2px;-webkit-user-select: text;z-index: 1000000000;background: #fff;background-color: rgba(255,255,255,0.98);border: 1px solid #e1e8ed;border: 0 solid rgba(0,0,0,0.25);border-radius: 4px;box-shadow: 0 1px 4px rgba(0,0,0,0.25);background-clip: padding-box;}
+#contentsop .aviso{background: #F5E571;color: #494848;text-align: -webkit-center;padding: 8px 0px;position: inherit;max-width: inherit;max-height: inherit;min-height: inherit;}
+#countpagesop ul{}
+#countpagesop ul li{overflow: hidden;clear: both;padding: 7px 0px;}
+#countpagesop ul li a{padding: 4px 26px 4px 26px;clear: both;}
+#contentsop{width: 96%;margin: 0px auto;}
+#contentsop .comillas{font-style: italic;border: 1px solid #E2DEDE;padding: 7px 12px 7px 28px;float: left;border-radius: 6px;box-shadow: 2px 2px 12px -1px #CCCCCC;margin: 10px 0px 0px 0px;background: url(http://localhost/p/images/icons/comillas.png) no-repeat 6px 6px;}
+#contentsop header{width: 100%;height: 40px;background: url(http://i.imgur.com/qGEzBPk.png) repeat-x;line-height: 40px;margin: -3px 0px 0px 0px;}
+#contentsop header a{padding: 10px 13px;margin: 0px 0px 0px 0px;color: #FFFFFF;}
+#contentsop header a:hover{padding: 12px 13px;text-decoration:none;background: white url(http://i.imgur.com/aVovclg.png) repeat-x 0% 0%;}
+#contentsop section{margin: 10px 6px;}
+#contentsop section #header{overflow: hidden;border-bottom: 1px solid #B4ADAD;padding: 0px 0px 6px 0px;}
+#contentsop section #header .contentheader{overflow: hidden;float: left;width: 72%;}
+#contentsop section #formsup{}
+#contentsop section #submenu{text-align: -webkit-left;height: 37px;line-height: 36px;background: url(http://i.imgur.com/HvLxfyx.png);}
+#contentsop section #submenu a{padding: 10px 10px;color: #FFFFFF;}
+#contentsop section #submenu a:hover{background: url(http://i.imgur.com/cNF488F.png);text-decoration: none;}
+#contentsop section #formsup #titlef{width: 100%;font-size: 13px;margin: 0px 0px 6px 0px;color: #999;font-weight: bold;}
+#contentsop section #formsup #titlef span{}
+#contentsop section #formsup input[type="text"]{width: 78%;font-size: 17px;padding: 4px 3px;}
+#contentsop section #formsup textarea{margin: 2px;width: 744px;height: 100px;}
+#contentsop section article{}
+#contentsop section article #foroscats{border: 1px solid #cfcfcf;background-color: #fff;padding: 1px;margin: 14px 0px 0px 0px;}
+#contentsop section article #foroscats .info .col{position: relative;float: left;width: 39px;padding: 8px 10px;border-right: 1px solid #fff;border-left: 1px solid #d6d6d6;min-height: 11px;font-size: 11px;color: #8f8f8f;font-weight: 700;}
+#contentsop section article #foroscats .info{height: auto;border-top: 2px solid #ededed;border-bottom: 1px solid #e1e1e1;}
+#contentsop section article #foroscats .info .star{border-left: none;background: transparent url('../images/supfo/star.png') no-repeat center 5px;}
+#contentsop section article #foroscats .info .forum{width: 492px;}
+#contentsop section article #foroscats .info .topics{}
+#contentsop section article #foroscats .info .posts{}
+#contentsop section article #foroscats .headerf{border-bottom: 1px solid #E4E2E2;background: transparent url('../images/supfo/forum-greeting-bg.png') repeat-x top left;height: 17px;padding: 6px 10px 0;font-size: 12px;font-weight: 700;color: #636363;}
+#contentsop section article #foroscats #listf{background-color: #ededed;padding: 0px;}
+#contentsop section article #foroscats #listf .col{float: left;min-height: 29px;padding: 16px 10px;font-size: 12px;vertical-align: middle;border-right: 1px solid #fff;border-left: 1px solid #d6d6d6;}
+#contentsop section article #foroscats #listf .foro{border-top: 1px solid #fff;border-bottom: 1px solid #e1e1e1;background-color: #ededed;border-top: 1px solid #fff;border-bottom: 1px solid #e1e1e1;}
+#contentsop section article #foroscats #listf .foro .off{background: transparent url('../images/supfo/off.png') no-repeat center center;}
+#contentsop section article #foroscats #listf .foro .forum{min-height: 29px;width: 492px;padding: 16px 10px;font-size: 12px;vertical-align: middle;}
+#contentsop section article #foroscats #listf .foro .topics{text-align: center;color: #000;font-weight: normal;padding: 23px 10px 9px 10px;}
+#contentsop section article #foroscats #listf .foro .posts{text-align: center;color: #000;font-weight: normal;padding: 23px 10px 9px 10px;}
+#contentsop section article #foroscats #listf .foro .info{color: #000;font-weight: normal;}
+#hoverefect1 #hf1{display: none;position: relative;margin: 0px 4px -25px 4px;background: rgba(0, 0, 0, 0.37);color: #FFFFFF;padding: 3px 0px;}
+#hoverefect1:hover #hf1{display:block;}
+td{padding: 13px 0px;}

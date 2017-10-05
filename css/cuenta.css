@@ -1,0 +1,25 @@
+.t_cuenta{}
+.t_cuenta .t_cuenta_cont{}
+.t_cuenta .t_cuenta_cont .title{position: relative;background: url(../images/bg/bg-on-line.gif) repeat-x 0 12px;margin: 4px 6px 9px 6px;}
+.t_cuenta .t_cuenta_cont .title h2{float: left;padding-right: 8px;margin: 0;font-weight: normal;font-size: 15px!important;line-height: 20px;background: url(../images/bg/bg-white-line.png) repeat-x center center white;}
+.t_cuenta .t_cuenta_cont .t_cuenta_l{float: left;display: inline-block;width: 18%;margin: 0;height: 100%;}
+.t_cuenta .t_cuenta_cont .t_cuenta_l .t_cuenta_header{}
+.t_cuenta .t_cuenta_cont .t_cuenta_l .t_cuenta_header .box{width: 160px;height: 160px;padding: 2px;border: 1px solid #DDDDDD;margin: 5px auto 0 auto;background: -webkit-gradient(linear, left top, left bottom, from(#F1F1F1), to(#E7E7E7));position: relative;}
+.t_cuenta .t_cuenta_cont .t_cuenta_l .t_cuenta_header .box img{width: 160px;height: 160px;}
+.t_cuenta .t_cuenta_cont .t_cuenta_r{width: 80%;float: left;border-left: 1px solid #DDD;height: 574px;}
+.t_cuenta .t_cuenta_cont .t_cuenta_r .t_cuenta_menu{}
+.t_cuenta .t_cuenta_cont .t_cuenta_r .t_cuenta_menu ul{}
+.t_cuenta .t_cuenta_cont .t_cuenta_r .t_cuenta_menu ul li{float: left;border-left: 1px solid #CCCCCC;border-bottom: 1px solid #CCCCCC;}
+.t_cuenta .t_cuenta_cont .t_cuenta_r .t_cuenta_menu ul li:hover{border-bottom: 0;}
+.t_cuenta .t_cuenta_cont .t_cuenta_r .t_cuenta_menu ul li:last-child(1){border-right:1px solid #CCCCCC;}
+.t_cuenta .t_cuenta_cont .t_cuenta_r .t_cuenta_menu ul li:first-child{border-left:0;}
+.t_cuenta .t_cuenta_cont .t_cuenta_r .t_cuenta_menu ul li a{display: block;padding: 7px 10px;}
+.t_cuenta .t_cuenta_cont .t_cuenta_r .t_cuenta_menu ul li a div{}
+select{padding: 4px;border: 1px solid #ccc;}
+.boxTwo{}
+.boxTwo .l{margin: 0 0 0 9px;font-size: 14px;}
+.boxTwo .r{margin: 0 14px 0 0;}
+.CmbrPrtVFls{width: 600px;height: 400px;overflow: hidden;text-align: -webkit-center;position: relative;background: rgba(0, 0, 0, 0.08);}
+.CmbrPrtVFls .cntnt{margin: 166px 11px;position: relative;}
+.CmbrPrtVFls input[type=file]{margin: 0;padding: 0;outline: 0;font-size: 10000px;border: 10000px solid transparent;opacity: 0;filter: alpha(opacity=0);position: absolute;right: -1000px;top: -1000px;cursor: pointer;}
+.CmbrPrtVFls .cntnt h2, .CmbrPrtVFls .cntnt h4, .CmbrPrtVFls .cntnt h3{color:#aaa;}

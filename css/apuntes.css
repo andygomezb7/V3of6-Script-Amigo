@@ -1,0 +1,5 @@
+.menunew{background: url(../images/bg/menubg.png);padding: 1px;width: 100%;border: 1px solid #CCCCCC;overflow: hidden;height: auto;margin: 5px auto 8px auto;}
+.menunew ul {width: 95%;margin: 0px auto;overflow: hidden;}
+.menunew ul li{float: left;}
+.menunew ul li a{line-height: 34px;padding: 11px 15px;overflow: hidden;}
+.menunew ul li a:hover{cursor: pointer;text-decoration: underline;}

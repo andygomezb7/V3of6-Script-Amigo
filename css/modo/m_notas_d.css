@@ -1,0 +1,16 @@
+.contentedor{margin: 0 auto;width: 97%;}
+.contentedor .t_i{font-size: 13px;color: #888888;overflow: hidden;margin: 0 0 6px 0;padding: 3px 8px 9px 8px;font-weight: normal;border-bottom: 1px solid #CCC;}
+.contentedor .c_i{}
+.contentedor .c_i .cont_ii{height: 527px;margin: 0 5px;overflow-y: auto;overflow-x: hidden;}
+.nt_i{background: #FFECA0;padding: 5px 4px;margin: 0 5px 4px 5px;border: 1px solid #FDE06B;color: #444444;}
+.nt_i:nth-child(2n+1){background: #CCFFA9;border: 1px solid #AEFA7A;}
+.nt_i .nt_content{}
+.nt_i .nt_content .nt_title{}
+.nt_i .nt_content .nt_cont{}
+.nt_i .nt_content .nt_dates{}
+.contentedor .RCont{width: 33%;margin: 0 0px 0 0;border-right: 1px solid #CCC;overflow: hidden;min-height: 600px;}
+.contentedor .RCont:first-child{border-left: 1px solid #CCCCCC;margin: 0 0 0 3px;}
+.pags{margin: 5px 0 0 0;}
+.pags a{padding: 4px 5px;background: #FFFFFF;border: 1px solid #CCCCCC;margin: 0 0 0px 6px;}
+.pags a:hover{color: #7C7C7C;background: #D8D8D8;}
+.booble_blue{float: right;background: #07f;color: #FFFFFF;padding: 4px;border-radius: 10px;margin: 0 0 -9px 0;}

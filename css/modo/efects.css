@@ -1,0 +1,12 @@
+.brO{border-radius: 3px;-webkit-border-radius: 3px;-moz-border-radius: 3px;}
+@-webkit-keyframes spin{ 0%   { -webkit-transform: rotate(-180deg) translate(0px, 0px);} 100% { -webkit-transform: rotate(180deg) translate(0px, 0px);} }
+.btnFileO{text-align: -webkit-center;padding: 10px 10px;background: rgba(0, 0, 0, 0.68);color: #FFFFFF;border-radius: 3px;font-weight: bold;}
+.cursorP:hover{cursor: pointer;}
+.animate_1s{-webkit-transition: width 1s;transition: width 1s;}
+.animate_margin_1s{-webkit-transition: margin 1s;transition: margin 1s;}
+.barloading{position: relative;border: 0;text-align: left;background: #e1e1e1;vertical-align: top;height: 9px;border: 1px solid #999;margin: 2px;padding: 1px;background: #fff;width: 100%;}
+.barloading .bar{height: 100%;width:5%;background-color: #2c75ec;height: 9px;background-image: url(//static.wortit.net/media/icons/loading/6.gif);}
+.tool{width: 0;border-right: 12px solid rgba(0, 0, 0, 0);border-bottom: 12px solid #FFF;border-left: 12px solid transparent;margin: 0 auto;position: absolute;top: -12.4px;left: 38px;z-index: 1500;}
+.tool:after{content: "";border-color: transparent;border-bottom-color: #fff;border-style: dashed dashed solid;border-width: 0 10px 10px;height: 0;left: -10px;position: absolute;top: 1px;width: 0;z-index: 1;}
+.zoom{zoom:1;}
+.loadcss{background-position: -72px -52px;width: 17px;height: 17px;  -webkit-animation-name: fade, spin; -webkit-animation-iteration-count: infinite; -webkit-animation-duration: 2s; background-size: 281px 1199px;}

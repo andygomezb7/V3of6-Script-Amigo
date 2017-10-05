@@ -1,0 +1,9 @@
+.aul_home_l{}
+.aul_home_l .aul_headr{margin: -7px -7px 0 -7px;background: #FFFFFF;height: 49px;border-bottom: 1px solid #CCCCCC;} .aul_home_l .aul_headr a{margin: 6px 0px 0px 9px;} .aul_home_l .aul_headr a img{background: #FFFFFF;padding: 4px;border-radius: 5px;border: 1px solid #CACACA;-webkit-transition: border 1s;transition: border 1s;-webkit-transition: background 0.5s;transition: background 0.5s;} .aul_home_l .aul_headr a img:hover{border: 1px solid #9E9B9B;background: #DDDDDD;}
+.aul_home_l .aul_headr .aul_info{width:82%;font-size: 18px;margin: 13px 0px 0px 9px;}
+.aul_home_l .aul_headr .aul_info .spe{float: left;display:block;background: url(../../images/icons/bread.gif) no-repeat;width: 10px;height:10px;}
+.aul_home_l .aul_con{}
+.aul_home_l .aul_con .conte_au{background: #FFFFFF;margin: 5px 5px;float: left;}
+.aul_home_l .aul_con .conte_au .ttl_au{padding: 4px 9px 3px 9px;background: #FFFFFF;border-bottom: 1px solid #DDDDDD;text-shadow: 2px 1px 0px #CCCBCB;font-weight: bold;font-size: 15px;color: #525050;}
+.aul_home_l .aul_con .conte_au .cnt_au{padding: 7px 7px;}
+.aul_home_l .aul_con .conte_au .cnt_au ol.h{height: 270px;overflow-y: auto;width: 168px;}

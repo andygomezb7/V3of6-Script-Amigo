@@ -1,0 +1,20 @@
+.loggHom{width: 90%;min-height:519px;margin: 70px auto 0px auto;}
+.loggHom .cntntHmLgg{padding: 0px;overflow: hidden;width: 65%;margin: 0px auto;border: 1px solid #CCCCCC;}
+.loggHom .cntntHmLgg .tltHmLgg{background: #FFFFFF;overflow: hidden;padding: 40px 30px;border-bottom: 1px solid #CCCCCC;text-align: -webkit-center;}
+.loggHom .cntntHmLgg .tltHmLgg h1{padding: 0px;margin: 0px;font-weight: 100;font-size: 42px;}
+.loggHom .cntntHmLgg .tltHmLgg div{text-align: -webkit-center;margin: 20px 0px 0px 0px;}
+.loggHom .cntntHmLgg .cntndrHmLgg{background: #FFFFFF;width: 97%;overflow: hidden;margin: 0;padding: 30px 10px;}
+.loggHom .cntntHmLgg .cntndrHmLgg form{margin: 4% auto;width: 83%;}
+.loggHom .cntntHmLgg .cntndrHmLgg form input[type="text"], .loggHom .cntntHmLgg .cntndrHmLgg form input[type="password"]{width:100%;border: 1px solid #DADADA;padding: 20px;}
+.loggHom .cntntHmLgg .cntndrHmLgg form input[type="button"]{padding: 11px 15px;font-size: 13px;background: #83AF1E;border-radius: 2px;border: 0px;color: #fff;width: 100%;margin: 4px 0px 0px 0px;cursor: pointer;}
+.loggHom .cntntHmLgg .cntndrHmLgg form input[type="button"]:hover{border:1px solid #759B1E;}
+.loggHom .cntntHmLgg .cntndrHmLgg form input[type="button"]:focus{background:#77A312;}
+/* LOGGED */
+.lggd{}
+.lggd .leftlggd{background: #eee;position: fixed;width: 19%;height: 100%;float: left;border-right: 1px solid #ccc;}
+.lggd .conts{display: inline-block;float: right;width: 100%;}
+.lggd .conts .cntrlggd{position: inherit !important;margin: 11px 18px 0px 18px;float: left;width: 68% !important;}
+.lggd .conts .rghtlggd{float: left;width: 27%;}
+.lggd .gcont{overflow: hidden;vertical-align: top;background-color: rgb(255, 255, 255);border-width: 1px 1px 2px;border-style: solid;border-color: rgb(216, 216, 216);background-position: initial initial;background-repeat: initial initial;-webkit-border-radius: 2px;border-radius: 2px;margin: 22px 4px 4px 4px;padding: 5px 5px 15px 5px;}
+.lggd .gcont .gtitle{font: 100 15px 'Droid Sans',arial,sans-serif;padding: 1px 5px 13px 6px;}
+.lggd .gcont .gcontent{overflow: hidde;}

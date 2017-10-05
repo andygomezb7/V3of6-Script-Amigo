@@ -1,0 +1,16 @@
+.no_regis{width: 86%;margin: 0 auto;}
+.no_regis .no_regis_content{padding: 192px 3px 0 3px;}
+.no_regis .no_regis_content .no_regis_header{text-align: -webkit-center;}
+.no_regis .no_regis_content .no_regis_header h1{font-size: 29px;margin: 0 0 26px 0;color: #FFFFFF;text-shadow: 1px 0px 1px #000000;-webkit-text-shadow: 1px 0px 1px #000000;-moz-text-shadow: 1px 0px 1px #000000;}
+.no_regis .no_regis_content .no_regis_header h4{font-size: 14px;color: #F0F0F0;font-weight: normal;}
+.no_regis .no_regis_content .no_regis_header h3.btn{background: #f1c40f;cursor:pointer;color: #424242;font-weight: normal;width: 102px;padding: 8px 5px;margin: 20px 0 0 0;border: 2px solid #BE9A0A;box-shadow: 1px 1px 4px -1px #000000;-webkit-box-shadow: 1px 1px 4px -1px #000000;-moz-box-shadow: 1px 1px 4px -1px #000000;}
+.no_regis .no_regis_content .no_regis_header h3.btn:hover{border: 2px solid #8B7C40;}
+.no_regis .no_regis_content .no_regis_header h3.btn:active{background: #E7BB0A;}
+.registro{}
+.registro .student{}
+.registro .student table{}
+.registro .student table tbody{}
+.registro .student table tbody tr{height: 36px;}
+.registro .student table tbody tr td{}
+.registro .student table tbody tr td textarea{margin: 0px;width: 289px;height: 65px;}
+.registro .student table tbody tr td select{margin: 0 7px 0 0;}

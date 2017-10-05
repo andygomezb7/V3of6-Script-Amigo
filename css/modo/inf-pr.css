@@ -1,0 +1,16 @@
+.div-clinfoh{width:101%;background-color: #e5e5e5;margin: -3px 0px -3px -2px;}
+.div-clinfoh .dodoke-div{width: 96%;margin: 0 auto;}
+.div-clinfoh .dvcli-le{width: 48%;margin: 0 0 0 10px;background-color: #e5e5e5;}
+.div-clinfoh .dvcli-ri{width: 48%;margin: 0 10px 0 0;}
+
+.cotow{margin: 10px 0 20px;border-top: 5px solid #fff;-webkit-border-radius: 3px;border-radius: 3px;-webkit-box-sizing: border-box;box-sizing: border-box;background-color: #fff;border: 1px solid #d8d8d8;border-bottom-width: 2px;border-top-width: 3px;vertical-align: top;}
+.cotow .coto-foo{margin: 0 20px 17px;}
+.cotow .coto-title{padding: 17px 20px 15px;vertical-align: top;}
+.cotow .coto-title .coto-ctitl{padding-bottom: 7px;}
+.cotow .coto-title .coto-ctitl .coto-tltc{color: #262626;display: inline-block;font: 100 18px 'Droid Sans',arial,sans-serif;}
+.cotow .coto-UiCon{clear: both;color: #404040;overflow: hidden;}
+.cotow .coto-UiCon .coto-UiCon-ofc{margin: 0 20px 17px;}
+
+.cotow .coto-UiCon .coto-UiCon-ofc .coto-UiCon-Wor{margin-bottom: 14px;}
+.cotow .coto-UiCon .coto-UiCon-ofc .coto-UiCon-Wor .coto-UiCon-TW{font-weight: bold;color: #262626;font: 600 14px 'Droid Sans',arial,sans-serif;}
+.cotow .coto-UiCon .coto-UiCon-ofc .coto-UiCon-Wor .coto-UiCon-Ds{font-size: 13px;}

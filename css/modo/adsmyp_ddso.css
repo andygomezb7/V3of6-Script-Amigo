@@ -1,0 +1,5 @@
+.ttl_m{font: 100 14px 'Droid Sans',arial,sans-serif;padding: 0px 0px 5px 0px;margin: 0px 0px 5px 0px;text-align: -webkit-center;border-bottom: 1px solid #DDDDDD;}
+.rlst{overflow: hidden;background: -webkit-gradient(linear, left top, left bottom, from(#ededed), to(#ebebeb));padding: 1px 5px 10px 5px;width: 92%;margin: 14px auto 0 auto;}
+.rlst .rlst_tt{background: #FFFFFF;padding: 5px 3px;margin: -1px -5px 0px -5px;border: 1px solid #E9E9E9;border-bottom: 1px solid #dddddd;}
+.rlst .rlst_tt h3{font-weight: normal;}
+.rlst .rlst_cnt{width: 64%;float: left;} .rlst .rlst_right{width: 36%;float: left;}

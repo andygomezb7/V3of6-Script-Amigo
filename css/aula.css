@@ -1,0 +1,4 @@
+#principalcont{background: url(../images/bg/pin.png) repeat;}
+.aula_con{width: 97%;background:rgba(255, 255, 255, 0.78);margin: 0px auto;min-height: 600px;}
+.aula_con .aula_con_tent{padding: 6px 7px 0 7px;}
+.adfoul .load{background: url(../images/icons/spinner.gif) no-repeat;width: 16px;height: 11px;}

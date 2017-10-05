@@ -1,0 +1,7 @@
+.hmnts{}
+.menunew{background-image: url(../images/bg/menubg.gif);background-size: 100% 100%;padding: 1px;width: 100%;border: 1px solid #CCCCCC;overflow: hidden;height: auto;margin: 0px auto 8px auto;}
+.menunew ul {width: 95%;margin: 0px auto;overflow: hidden;}
+.menunew ul li{float: left;}
+.menunew ul li a{line-height: 34px;padding: 11px 15px;overflow: hidden;}
+.menunew ul li a:hover{cursor: pointer;text-decoration: underline;}
+.menunew ul li ol{background: url(../images/icons/subf.png) no-repeat left 12px;overflow: hidden;margin: -13px 0px 0px 31px;}

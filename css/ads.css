@@ -1,0 +1,6 @@
+.menu_ads{width:100%;z-index: 1000;position: fixed;top:0;border-bottom: 1px solid rgba(0,0,0,0.15);height: 46px;width: 100%;background: #FFF;}
+.menu_ads ul{}
+.menu_ads ul li{height: 46px;float: left;color: #66757f;position: relative;}
+.menu_ads ul li a{border-bottom: 4px solid solid rgba(0, 132, 180, 0);color: #66757f;transition: all .15s ease-in-out;background: transparent;display: block;font-size: 13px;font-weight: 500;height: 46px;line-height: 1;padding: 0 14px 0 4px;}
+.menu_ads ul li a:hover{height: 42px;border-bottom: 4px solid #0084b4;}
+.menu_ads ul li a span{float: left;margin-left: 3px;margin-top: 17px;padding: 0;}

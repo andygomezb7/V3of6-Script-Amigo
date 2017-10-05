@@ -1,0 +1,24 @@
+<?php
+/*$tested = "
+Este sería el título
+Este es el texto que quiero en el archivo.
+Recuerda que lo podemos cambiar desde un form, ya que está metido en una variable.
+Podremos meter cuantos caracteres le asignes.
+
+Es un gusto ayudarte,
+Pedro.
+";*/
+
+/*$fp = fopen("tested.txt", "r");
+echo $fp;
+fputs($fp, $tested);
+fclose($fp);
+$fp = fopen("tested.txt", "r");
+while(!feof($fp)) {
+$linea = fgets($fp);
+echo $linea . "<br />";
+}
+fclose($fp);*/
+
+highlight_file('tested.txt');
+?>

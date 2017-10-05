@@ -1,0 +1,33 @@
+.cont_not{background: #FFFFFF;border: 1px solid #CCCCCC;margin: 7px 3px 3px 7px;padding: 11px 6px 6px 6px;}
+.cont_not .dsNoStas div{font-size: 15px;margin: 0 8px 0 0;padding: 6px 4px;border-right: 1px solid #EBEBEB;}
+.cont_not .dsNoStas div:first-child{border-left: 1px solid #DDD;}
+.cont_not .dsNoStas .lsf{font-size: 23px;font-style: normal;}
+.cont_not .pubsLrT{border: 1px solid #CCCCCC;padding: 7px 4px;}
+.cont_not .pubsLrT .ImG img{width:62px;height:62px;}
+.cont_not .pubsLrT .dsCoPbs{width: 89%;margin: 0 0 0 8px;}
+.cont_not .pubsLrT .dsCoPbs textarea{width: 100%; height: 89px; margin: 0px;resize: none;}
+.CoMntSNw{}
+.cO{border: 1px solid #CCCCCC;margin: 0 0 7px 0;position: relative;}
+.cO .LikBtn{position: absolute;top: 7px;right: 9px;}
+.cO .LikBtn a{margin: 0 0 0 8px;padding: 4px;} .cO .LikBtn a:hover{border: 1px solid #A38A8A;}
+.cO .HdR img{width: 62px;height: 62px;}
+.cO .CoNt{margin: 3px 0 0 6px;width: 81%;}
+.cO .UsR{font-size: 16px;margin: 2px 0 4px 0;}
+.cO .TxR{padding: 0 0 8px 0;}
+.cntn_nt_wb{width: 98%;margin: 0px auto;}
+.cntn_nt_wb .lft_cntn_nt{width: 75%;}
+.cntn_nt_wb .lft_cntn_nt .nt_nota{margin: 0px 9px;}
+.cntn_nt_wb .lft_cntn_nt .nt_nota .ttl_nota{}
+.cntn_nt_wb .lft_cntn_nt .nt_nota .ttl_nota h3{font-size: 17px;}
+.cntn_nt_wb .lft_cntn_nt .nt_nota .ttl_nota .inf_nota{border-bottom: 1px solid #DDE2E7;border-top: 1px solid #DDE2E7;margin: 13px -6px 2px -6px;background: #EDF1F5;padding: 5px 5px 5px 8px;color: #74818E;}
+.cntn_nt_wb .lft_cntn_nt .nt_nota .content_nota{min-height: 506px;}
+.cntn_nt_wb .lft_cntn_nt .nt_nota .content_nota img{max-width: 96%!important;}
+.cntn_nt_wb .lft_cntn_nt .nt_nota .btnsl{}
+.cntn_nt_wb .lft_cntn_nt .nt_nota .btnsl a{margin:0 0 0 5px;}
+.cntn_nt_wb .lft_cntn_nt .nt_nota .footer_nt{}
+.cntn_nt_wb .lft_cntn_nt .nt_nota .footer_nt .cont_fo_nt{width: 98%;}
+.cntn_nt_wb .rght_cntnt_nt{width: 25%;}
+.nota_puntos {background: #56677A;color: #fff;font-size: 15px;text-align: center;border-radius: 5px;display: inline-block;}
+.nota_puntos span {border-right: solid 1px rgba(0, 0, 0, 0.2);padding: 10px 14px;float: left;}
+.nota_puntos a {padding: 10px 14px;margin:0!important;color: #fff;float: left;border-right: solid 1px rgba(0, 0, 0, 0.2);border-left: solid 1px rgba(255, 255, 255, 0.12);margin-left: -2px;-webkit-transition: all 0.1s linear;-moz-transition: all 0.1s linear;-ms-transition: all 0.1s linear;-o-transition: all 0.1s linear;transition: all 0.1s linear;}
+.nota_puntos a:hover {background: rgba(255, 255, 255, 0.18);text-decoration: none;}

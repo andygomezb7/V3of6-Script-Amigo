@@ -1,0 +1,22 @@
+.cht_hom_{}
+.cht_hom_ .cht_hom_hr{width: 99%;margin: 0px auto;}
+.cht_hom_ .cht_hom_hr .cht_box{background: #FFFFFF;border: 1px solid #EBEBEB;padding: 1px 5px;}
+.cht_hom_ .cht_hom_hr .cht_box .cht_box_t{padding: 5px 6px;border-bottom: 1px solid #CCCCCC;font-size: 13px;font-weight: bold;color: gray;text-shadow: 1px 2px 0px #CCCCCC;}
+.cht_hom_ .cht_hom_hr .cht_box .cht_box_c{}
+.cht_hom_ .cht_hom_hr .cht_box .cht_box_c .cht_msgs{height: 464px;border: 1px solid #DDDDDD;margin: 5px 0 6px 0;padding: 2px 5px;}
+.cht_hom_ .cht_hom_hr .cht_box .cht_box_c .cht_msgs .cht_msg_font{display: block;position: relative;background: #FFFFFF;height: 100%;overflow-y: auto;overflow-x: hidden;width: 100.5%;}
+.cht_hom_ .cht_hom_hr .cht_box .cht_box_c .cht_msgs .cht_msg_font .font{position: absolute;width: 100%;height: 100%;background: rgba(255, 255, 255, 0.53);top: 0;}
+
+.cht_hom_ .cht_hom_hr .cht_box .cht_box_c .cht_msgs .msg{border: 1px solid #DDDDDD;padding: 3px 3px;border-bottom: 0;}
+.cht_hom_ .cht_hom_hr .cht_box .cht_box_c .cht_msgs .msg .hrd{}
+.cht_hom_ .cht_hom_hr .cht_box .cht_box_c .cht_msgs .msg .hrd img{width: 40px;height: 40px;}
+.cht_hom_ .cht_hom_hr .cht_box .cht_box_c .cht_msgs .msg .cnt{margin: 0 0 0 5px;}
+.cht_hom_ .cht_hom_hr .cht_box .cht_box_c .cht_msgs .msg .cnt h1{font-size: 14px;color: #535353;}
+.cht_hom_ .cht_hom_hr .cht_box .cht_box_c .cht_msgs .msg .cnt .dodo{margin: 1px 0 0 2px;}
+.cht_hom_ .cht_hom_hr .cht_box .cht_box_c .cht_msgs .msg .cnt .dodo .tt{font-size: 12px;}
+.cht_hom_ .cht_hom_hr .cht_hom_lf{width: 67.6%;margin: 0px 3px 0px 0px;}
+.cht_hom_ .cht_hom_hr .cht_hom_rg{width: 31.5%;padding: 0px 0px 0px 6px;}
+
+.ch_rg{}
+.ch_rg li{padding: 9px 0px 9px 10px;border-bottom: 1px solid #CCCCCC;}
+.ch_rg li h1{font-size: 15px;}

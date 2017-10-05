@@ -1,0 +1,1 @@
+<div id="error_flat" class="blue_flat" style="margin: 6px 5px 8px 5px;"><img src="{$tsConfig.url}/images/icons/info.png"> Esta herramienta no esta disponible aún ya que contamos con muchos tipos de notificaciones y secciones, por ahora trabajamos en esto y esperamos terminar pronto.<br>Muchas gracias.</div>

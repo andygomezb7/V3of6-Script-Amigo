@@ -1,0 +1,1 @@
+<center><img src="{$tsConfig.url}/images/bg/not-found.png" title="La pagina no existe" alt="La pagina no existe"/></center>

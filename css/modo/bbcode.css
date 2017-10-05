@@ -1,0 +1,8 @@
+.cita{border-left: 4px solid #2780c7;padding: 10px 25px 5px 25px;margin: 3px 10px;}
+pre.text_code{border: 1px solid #CCCCCC;padding: 7px 8px;white-space: nowrap;display: block;-webkit-margin-before: 1em;-webkit-margin-after: 1em;-webkit-margin-start: 40px;-webkit-margin-end: 40px;overflow-x: auto;}
+.avisos{padding: 4px 6px;border: 1px solid rgba(0, 0, 0, 0.22);}
+.pnotice{background: #F3E289;}
+.pinfo{background: #81A3CF;}
+.pwarning{background: #EC9957;}
+.perror{background: #E69090;}
+.psuccess{background: #53BB74;}

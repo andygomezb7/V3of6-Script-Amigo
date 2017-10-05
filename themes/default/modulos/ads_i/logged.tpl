@@ -1,0 +1,1 @@
+Esto es el incio de ads {$tsConfig.name}

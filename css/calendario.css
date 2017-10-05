@@ -1,0 +1,36 @@
+.calendar {width: 100%;background: #FFF;}
+.calendar thead {background: #323B47;color: #FFFFFF;}
+.calendar thead th {padding: 7px;font-size: 14px;text-align: center;font-weight: normal;border-left: 1px solid #494949;border-right: 1px solid #272727;}
+.calendar tbody tr {background: #FFF;}
+.calendar tbody tr td:hover {background: rgba(38, 48, 58, 0.15);}
+.calendar tbody tr:nth-child(2n+0) {background: #f1f6f9;}
+.calendar tbody tr td{font-size: 0.9em;vertical-align: top;border: 1px solid #F1F4F7;padding: 5px;height: 95px;width: 14%;}
+.calendar tbody tr .c_day {display: block;font-size: 15px;margin-bottom: 4px;font-weight: bold;color: #225985; }
+.calendar tbody tr td.hoy {border: 1px solid #6f8f52;background-color: #f1f6ec;}
+.calendar tbody tr td.cumple{border: 1px solid green;background-color: #f1f6ec;background-image: url(//static.wortit.net/img/cumple.png);}
+.calendar tbody tr td.vacio {background: #dbe2e8;border-color: #dbe2e8;  }
+.calendar tbody tr td div a {width: 100%;font-size: 12px;color: #1C74AF;}
+.calndr_cntnt{margin: 2px 2px 0px 4px;}
+.calndr_cntnt .bdy_calndr{min-height: 570px;}
+.calndr_cntnt .bdy_calndr .box_title{text-align: -webkit-center;background: #333333;color: #FFFFFF;padding: 10px 0px;font-size: 20px;}
+.cont_left {width: 68%;float: left;border-right: 1px solid #CCCCCC;padding: 9px 7px 16px 10px;}
+.cont_right {width: 30%;float: left;}
+.cont_right .cr_body  {background: #FFF;border-radius: 4px;padding: 10px;}
+.cont_right .cr_body.cr_cumple {margin-top: 10px;}
+.cont_right .cr_body.cr_cumple h2{margin-top: 0;margin-bottom: 9px;}
+.cont_right .cr_body.cr_cumple .user_cumple {margin-bottom: 3px;font-size: 13px;color: #A5A5A5;}
+.cont_right .cr_body.cr_cumple .user_cumple a {color: #1C74AF;}
+.cont_right .cr_body.cr_cumple .cr_avatar img {padding: 1px;border: 1px solid #d5d5d5;background: #fff;-webkit-box-shadow: 0px 2px 2px rgba(0,0,0,0.1);-moz-box-shadow: 0px 2px 2px rgba(0,0,0,0.1);box-shadow: 0px 2px 2px rgba(0,0,0,0.1);vertical-align: middle;}
+.cont_right .cr_body.cr_fecha div {font: 300 84px/58px 'Droid Sans', 'Helvetica Neue',helvetica,arial,sans-serif;margin-bottom: 8px; }
+.cont_right .cr_body.cr_fecha span {text-transform: uppercase;font-size: 16px;}
+.e_item {padding: 10px;}
+.e_item label {font-weight: bold;font-size: 15px;display: block;margin-bottom: 5px;}
+.e_item input{width: 926px;padding: 10px 5px;}
+.e_item textarea {width: 926px;}
+.et_titulo {background: #D8DDE8;margin-right: 10px;}
+.et_titulo .et_avatar img {padding: 2px;border: 1px solid #d5d5d5;background: #fff;-webkit-box-shadow: 0px 2px 2px rgba(0,0,0,0.1);-moz-box-shadow: 0px 2px 2px rgba(0,0,0,0.1);box-shadow: 0px 2px 2px rgba(0,0,0,0.1);margin: 5px;float: left;}
+.et_titulo b {font-size: 16px;padding-top: 13px;margin-bottom: 3px;display: block;}
+.et_cuerpo {background: #FFF;padding: 10px;margin-right: 10px;font-size: 13px;margin-bottom: 10px;border-bottom: 1px solid #D6E2EB;   word-wrap: break-word;line-height: 1.5em;}
+.et_cuerpo img {max-width: 100%;}
+.mBtn{background: #07f;color: #FFFFFF !important;text-decoration: none!important;padding: 3px 4px;}
+.mBtn:hover{text-decoration: underline!important;background: #3585E0;}

@@ -1,0 +1,19 @@
+.notas{clear: both;margin: 7px 5px 20px 9px;}
+.notas #elementop{background: #EEEEEE;border-bottom: 1px solid #eaeaea;overflow: hidden;padding: 11px 0;width: 730px;float: left;}
+.notas #elementop .content_elemtp .cotn{background: transparent;float: left;margin: 0 3px 0 0;padding: 5px;width: 53px;height: 38px;text-align: -webkit-center;}
+.notas #elementop .content_elemtp .cotn.resources{background: #75845c;color: #fff;}
+.notas #elementop .content_elemtp .cotn.norm{background: #EBE9E8;}
+.notas #elementop .content_elemtp .cotn.norm .sources span{color: #6B5543;}
+.notas #elementop .content_elemtp .cotn.norm .ttlds{color: #6D635B;}
+.notas #elementop .content_elemtp .cotn.rds{background: #EEE8E8;}
+.notas #elementop .content_elemtp .cotn.rds .sources span{color: #9a4444;}
+.notas #elementop .content_elemtp .cotn.rds .ttlds{color: #9a4444;}
+.notas #elementop .content_elemtp .cotn .sources{margin: 0 0 7px 0;}
+.notas #elementop .content_elemtp .cotn .sources span{font-size: 21px;}
+.notas #elementop .content_elemtp .cotn .ttlds{}
+.notas #elementop .cont_elemtp{width: 80%;margin: 0px 0px 0px 5px;}
+.notas #elementop .cont_elemtp h3{font-size: 130%;margin: 0 0 9px 0;}
+.notas #elementop .cont_elemtp .xtrainfo{width: 100%;margin:0 0 0 0;}
+.notas #elementop .cont_elemtp .xtrainfo .cat_elemtp{padding: 5px 7px;background-color: #e0eaf1;border-bottom: 1px solid #b3cee1;border-right: 1px solid #b3cee1;margin: 0 0 0px 3px;}
+.notas #elementop .cont_elemtp .xtrainfo .info_elemtp{margin: 10px 1px 0px 0;color: #A29E9E;}
+.notas #elementop:nth-child(2n+1) {background: #fff;}

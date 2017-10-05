@@ -1,0 +1,1 @@
+<iframe allowfullscreen="" allowtransparency="true" frameborder="0" src="http://view.vzaar.com/2100657/player?apiOn=true" class="iframe " id="vzvd-2100657" mozallowfullscreen="" name="vzvd-2100657" title="vzaar video player" type="text/html" webkitallowfullscreen=""></iframe>

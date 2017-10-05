@@ -1,0 +1,11 @@
+.notas{clear: both;margin: 7px 5px 20px 9px;}
+.notas #elementop{background: #E4E8ED;}
+.notas #elementop .img{}
+.notas #elementop .img img{width: 88px;height: 88px;}
+.notas #elementop .content{}
+.notas #elementop .content .title{}
+.notas #elementop .content .title a{}
+.notas #elementop .content .date{}
+.notas #elementop .content .date span{}
+.notas #elementop .content .text{}
+.notas #elementop:nth-child(2n+1) {background: #fff;}

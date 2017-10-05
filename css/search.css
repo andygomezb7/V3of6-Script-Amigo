@@ -1,0 +1,13 @@
+#principalcont{background: #EBEBEB;} .search_i{}
+.search_i .search_i_content{width: 99%;margin: 0 auto;}
+.search_i .search_i_content .iconbg{border: 1px solid #E2E2E2;background: #FFFFFF;padding: 4px 5px;}
+.search_i .search_i_content .search_i_l{width: 23%;}
+.search_i .search_i_content .search_i_c{width: 48%;margin: 0 4px;}
+.search_i .search_i_content .search_i_r{width: 24%;}
+.search_i .search_i_content h2.title{margin: 4px 0 8px 0;font-size: 21px;line-height: 16px;color: #4e5665;font-weight: normal;padding: 0;}
+.search_i .search_i_content .input_search{width: 100%;margin: 3px 0 4px 0;font-size: 28px;height: 41px;line-height: 30px;}
+.search_i .search_i_content .search_i_c .result{width: 550px;border-bottom: 1px dotted #CCCCCC;}
+.search_i .search_i_content .search_i_c .result .hoverhackd{width: 100%;overflow: hidden;padding: 6px 3px 2px 11px;}
+.search_i .search_i_content .search_i_c .result  a{float: left;font: 300 15px 'Droid Sans',arial,sans-serif;}
+.search_i .search_i_content .search_i_c .result .size11{font-size: 11px;clear: both;}
+.search_i .search_i_content .search_i_c .result  a img{width:50px;height:50px;border: 1px solid #CCCCCC;padding: 2px;}

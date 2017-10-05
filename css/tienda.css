@@ -1,0 +1,20 @@
+.tienda{}
+.tienda header{position: relative;border-bottom: 1px solid #CCCCCC;padding: 0 4px 8px 4px;height: 82px;}
+.tienda header .LfT{}
+.tienda header .LfT ul{}
+.tienda header .LfT ul li{float: left;}
+.tienda header .LfT ul li a{display: block;width: 164px;float: left;height: 90px;padding: 0 6px;color: #FFFFFF;text-align: -webkit-center;font-size: 20px;}
+.tienda header .LfT ul li a .lsf{margin: 19px 0 15px 0;font-size: 45px;}
+.tienda header .riT{position: absolute;right: 16px;top: 46px;border: 1px solid #CCC;padding: 7px 10px;width: 118px;border-radius: 7px;background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fcfcfc), to(#eeeeee));}
+.tienda header .riT .CrtLl{}
+.tienda header .riT .CrtLl .cntdd{padding: 0 0 0 3px;}
+.tienda header .riT .CrtLl .NiM{}
+.tienda #right{width: 100%;float: left;margin: 10px 0px 0px 5px;}
+.tienda #right .product{background: url(http://i.imgur.com/uuGV8WU.png);width: 157px;height: 191px;float: left;margin: 0px 7px 10px 0px;padding: 0px;border: 1px solid #DADADA;}
+.tienda #right .product:hover .btncom{display: block;}
+.tienda #right .product .btncom{display: none;position: absolute;margin:66px 0px 0px 91px;color: #FFF;background: rgba(0, 0, 0, 0.63);font-size: 12px;line-height: 1;padding: 8px;text-align: center;-webkit-background-clip: padding-box;cursor: pointer;}
+.tienda #right .product .titlet{padding: 2px;background: #07f;color: #FFFFFF;font: 300 18px wortit, arial,sans-serif;text-align: -webkit-center;}
+.tienda #right .product .contse{text-align: -webkit-center;margin: 136px 0px 0px 2px;width: 25px;padding: 12px 0 0 5px;}
+.tienda #right .product .contse #numet{color: #000000;font-size: 16px;font-weight: 600;}
+.tienda #right .product .contse #pasest{font-size: 7px;color: #000000;text-transform: uppercase;}
+.tienda #right .product #typefootr{background: transparent;color: #000000;font: 200 23px wortit, arial,sans-serif;height: 37px;text-align: -webkit-right;line-height: 31px;margin: -26px 11px 0px 0px;}

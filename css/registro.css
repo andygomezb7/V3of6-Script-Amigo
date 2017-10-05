@@ -1,0 +1,9 @@
+.registro_i{clear:both;}
+.registro_i .registro_i_c{width: 92%;margin: 0 auto;}
+.registro_i .registro_i_c .form{padding: 8px 0px;clear:both;}
+.registro_i .registro_i_c .form .t{color: #7A7A7A;font-size: 19px;text-transform: uppercase;margin: 0 0 8px 0;}
+.registro_i .registro_i_c .form .g{}
+.registro_i .registro_i_c .form .g .mention{font-size: 43px;margin: 8px 3px 0 0;color: #7A7A7A;}
+.registro_i .registro_i_c .form .g input{padding: 4px 7px;height: 39px;font-size: 26px;line-height: 30px;margin: 0 12px 0 0;}
+.registro_i .registro_i_c .form .g textarea{}
+.registro_i .registro_i_c .form .g select{padding: 4px 7px;height: 32px;font-size: 16px;line-height: 30px;margin: 0 12px 0 0;}

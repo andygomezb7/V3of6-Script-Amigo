@@ -1,0 +1,13 @@
+#headtotalhe{margin-top:0!important;}
+.headr_nt{height: 118px;background: #1d2e60;background-image: -moz-linear-gradient(left,#305080 0,#406090 15%,#1d2e60 60%);background-image: -webkit-gradient(linear,left top,right top,color-stop(0,#305080),color-stop(0.15,#406090),color-stop(1,#1d2e60));}
+.headr_nt .tp_hdr_nt{color: #FFF;font-weight: normal;font-size: 11px;margin: 0px auto 0px auto;width: 95%;} .headr_nt .tp_hdr_nt span{font-weight:normal;} .headr_nt .tp_hdr_nt a{font-weight: bold;color: #FFFFFF;}
+.headr_nt .tp_hdr_nt .menu_hrd_nt{position: relative;margin: 10px 0px 0px 0px;}
+.headr_nt .tp_hdr_nt .menu_hrd_nt .modal-dialog{margin: 13px -19px 0 0 !important;}
+.headr_nt .tp_hdr_nt .menu_hrd_nt ul li{float: left;margin: 0px 0px 0px 8px;position: relative;}
+.headr_nt .tp_hdr_nt .menu_hrd_nt ul li a span{display: block;}
+.headr_nt .contnt_hdr_nt{margin: 5px auto 0px auto;width: 96%;height: 88px;}
+.headr_nt .contnt_hdr_nt .lg_hdr_nt{background: url(http://i.imgur.com/p98RNSv.png) no-repeat;background-size: 100% 100%;width: 288px;height: 76px;}
+.headr_nt .contnt_hdr_nt .srch_hdr_nt{margin: 17px 0px 0px 159px;}
+.headr_nt .contnt_hdr_nt .srch_hdr_nt .cntn_search{width: 464px;padding: 5px;overflow: hidden;border-radius: 3px;border-color: #afafaf;background-color: #dfdfe0;background-image: -moz-linear-gradient(top,#f1f1f4,#cacaca);background-image: -webkit-gradient(linear,left top,left bottom,from(#f1f1f4),to(#cacaca));background-image: linear-gradient(top,#f1f1f4,#cacaca);}
+.headr_nt .contnt_hdr_nt .srch_hdr_nt .cntn_search input[name=search].btn_search{background-color: #f8d44c;background: -moz-linear-gradient(top,#fff39c,#fee474 50%,#fdd14c 50%,#fcc42e);background: -webkit-gradient(linear,left bottom,left top,color-stop(0.00,#FCC42E),color-stop(0.50,#FDD14C),color-stop(0.50,#FEE474),color-stop(1.00,#FFF39C));border: 1px solid #878787;font-weight: bold;font-size: 100%;padding: 4px 15px 3px;cursor: pointer;height: 23px;line-height: 15px;border-radius: 2px;}
+.headr_nt .contnt_hdr_nt .srch_hdr_nt .cntn_search input[name=q].inpt_t_nt{width: 59%;height: 17px;font-size: 12px;padding: 3px 5px 0px 5px;line-height: 1;margin-right: 4px;}

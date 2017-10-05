@@ -1,0 +1,7 @@
+@-webkit-keyframes jfk-progressBar-bg{0%{background-position:0 0}to{background-position:-16px 0}}@keyframes jfk-progressBar-bg{0%{background-position:0 0}to{background-position:-16px 0}}@-webkit-keyframes jfk-progressBar-bg-tall{0%{background-position:0 0}to{background-position:-20px 0}}@keyframes jfk-progressBar-bg-tall{0%{background-position:0 0}to{background-position:-20px 0}}
+.bg_prgs_bar{background-color: #6188f5;
+background-image: -webkit-linear-gradient(315deg,transparent,transparent 33%,rgba(0,0,0,.12) 33%,rgba(0,0,0,.12) 66%,transparent 66%,transparent);
+background-image: linear-gradient(315deg,transparent,transparent 33%,rgba(0,0,0,.12) 33%,rgba(0,0,0,.12) 66%,transparent 66%,transparent);
+-webkit-animation: jfk-progressBar-bg .8s linear 0s infinite;
+animation: jfk-progressBar-bg .8s linear 0s infinite;
+-webkit-animation: jfk-progressBar-bg-tall .8s linear 0s infinite;}

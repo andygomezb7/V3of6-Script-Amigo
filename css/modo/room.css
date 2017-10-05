@@ -1,0 +1,5 @@
+.newroom{width: 500px;}
+.newroom .content{margin: 7px 0px;height: 189px;}
+.newroom .info{width: 22%;padding: 0px 12px 0px 0px;margin: 0px 8px 0px 0px;border-right: 1px solid #CCCCCC;}
+.newroom .form{width: 73%;}
+.newroom .form textarea{margin: 0px;width: 100%;height: 186px;resize:none;}

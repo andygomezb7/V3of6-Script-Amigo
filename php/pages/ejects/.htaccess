@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^([A-Za-z0-9_-]+).js$ js.$1.php [QSA,L]
+RewriteRule ^([A-Za-z0-9_-]+)/$ php.$1.php [QSA,L]
+
+#NO PERMITIR LA DESCARGA DE ARCHIVOS .TPL
+<FilesMatch "\.(htaccess|ini|log|cfg|tpl)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
